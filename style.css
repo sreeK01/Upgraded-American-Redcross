@@ -195,33 +195,33 @@ body {
 
 
     /* Color */
-color: #FFFFFF;
+    color: #FFFFFF;
 
-margin-bottom: 70px;
-
-
-/* Font */
-font-size: 16px;
-
-/* Spacing */
-line-height: 20px;
-vertical-align: baseline;
-letter-spacing: normal;
-word-spacing: 0px;
+    margin-bottom: 70px;
 
 
-/* Decoration */
-font-weight: 100;
-font-style: normal;
-font-variant: normal;
-font-kerning: auto;
-font-optical-sizing: auto;
-font-stretch: 100%;
-font-variation-settings: normal;
-font-feature-settings: normal;
-text-transform: none;
-text-decoration: none solid rgb(255, 255, 255);
-text-indent: 0px;
+    /* Font */
+    font-size: 16px;
+
+    /* Spacing */
+    line-height: 20px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+
+
+    /* Decoration */
+    font-weight: 100;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-indent: 0px;
 
 
 }
@@ -331,7 +331,7 @@ text-indent: 0px;
 .socialmedia-icon-mail {
     width: 41px;
     height: 41px;
-    margin-left: 940px;
+    margin-left: 925px;
 }
 
 
@@ -368,7 +368,7 @@ text-indent: 0px;
     color: #212529;
 
 
-    margin-bottom: -35px; 
+    margin-bottom: -35px;
 
 
 
@@ -617,7 +617,7 @@ text-indent: 0px;
     line-height: 22px;
     letter-spacing: normal;
 
-    font-weight: 100;   
+    font-weight: 100;
     /* PENDING HERE ABOVE                                      */
     font-optical-sizing: auto;
     font-stretch: 100%;
@@ -638,12 +638,12 @@ text-indent: 0px;
 
 .list li {
     margin-bottom: 23px;
-    
+
 
 }
 
 
-.hyperlink{
+.hyperlink {
     color: #007CAF;
 
 
@@ -1105,7 +1105,7 @@ text-indent: 0px;
     text-transform: none;
     text-decoration: none solid rgb(33, 37, 41);
     text-indent: 0px;
-    
+
 }
 
 .footer-text-div span {
@@ -1147,8 +1147,8 @@ text-indent: 0px;
     align-items: center;
     position: fixed;
     background-color: #fff;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
-    z-index: 999; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    z-index: 999;
     width: 96px;
     height: 93px;
     margin-left: 1407px;
@@ -1156,16 +1156,15 @@ text-indent: 0px;
     border-radius: 5px;
 }
 
-.chat-box img{
+.chat-box img {
     width: 70px;
     height: 70px;
     margin-top: 15px;
 }
 
-.chat-box p{
+.chat-box p {
     margin-top: -1px;
     font-size: 12px;
     font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
-
